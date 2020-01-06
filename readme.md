@@ -76,53 +76,53 @@
         </ul>
     </li>
     <li>
-        <h2>Digging Deeper</h2>
+        <h2>Копнём поглубже</h2>
         <ul>
-            <li><a href="artisan">Artisan Console</a></li>
-            <li><a href="broadcasting">Broadcasting</a></li>
-            <li><a href="cache">Cache</a></li>
-            <li><a href="collections">Collections</a></li>
-            <li><a href="events">Events</a></li>
-            <li><a href="filesystem">File Storage</a></li>
-            <li><a href="helpers">Helpers</a></li>
-            <li><a href="mail">Mail</a></li>
-            <li><a href="notifications">Notifications</a></li>
-            <li><a href="packages">Package Development</a></li>
-            <li><a href="queues">Queues</a></li>
-            <li><a href="scheduling">Task Scheduling</a></li>
+            <li><a href="artisan">Artisan Console - Консоль</a></li>
+            <li><a href="broadcasting">Broadcasting - Широковещание</a></li>
+            <li><a href="cache">Cache - Кеш</a></li>
+            <li><a href="collections">Collections - Коллекции</a></li>
+            <li><a href="events">Events - События</a></li>
+            <li><a href="filesystem">File Storage - Файловое хранилище</a></li>
+            <li><a href="helpers">Helpers - Помощники</a></li>
+            <li><a href="mail">Mail - Почта</a></li>
+            <li><a href="notifications">Notifications - Уведомления</a></li>
+            <li><a href="packages">Package Development - Разработка пакета</a></li>
+            <li><a href="queues">Queues - Очереди</a></li>
+            <li><a href="scheduling">Task Scheduling - Расписание задач</a></li>
         </ul>
     </li>
     <li>
         <h2>Базы данных</h2>
         <ul>
-            <li><a href="database">Getting Started</a></li>
-            <li><a href="queries">Query Builder</a></li>
-            <li><a href="pagination">Pagination</a></li>
-            <li><a href="migrations">Migrations</a></li>
-            <li><a href="seeding">Seeding</a></li>
+            <li><a href="database">С чего начать</a></li>
+            <li><a href="queries">Query Builder - Генератор запросов</a></li>
+            <li><a href="pagination">Pagination - Пагинация</a></li>
+            <li><a href="migrations">Migrations - Миграции</a></li>
+            <li><a href="seeding">Seeding - Первые данные</a></li>
             <li><a href="redis">Redis</a></li>
         </ul>
     </li>
     <li>
         <h2>Eloquent ORM</h2>
         <ul>
-            <li><a href="eloquent">Getting Started</a></li>
-            <li><a href="eloquent-relationships">Relationships</a></li>
-            <li><a href="eloquent-collections">Collections</a></li>
-            <li><a href="eloquent-mutators">Mutators</a></li>
-            <li><a href="eloquent-resources">API Resources</a></li>
-            <li><a href="eloquent-serialization">Serialization</a></li>
+            <li><a href="eloquent">С чего начать</a></li>
+            <li><a href="eloquent-relationships">Relationships - Отношения</a></li>
+            <li><a href="eloquent-collections">Collections - Коллекции</a></li>
+            <li><a href="eloquent-mutators">Mutators - Мутаторы</a></li>
+            <li><a href="eloquent-resources">API Resources - API Ресурсы</a></li>
+            <li><a href="eloquent-serialization">Serialization - Сериализация</a></li>
         </ul>
     </li>
     <li>
         <h2>Тестирование</h2>
         <ul>
-            <li><a href="testing">Getting Started</a></li>
-            <li><a href="http-tests">HTTP Tests</a></li>
-            <li><a href="console-tests">Console Tests</a></li>
-            <li><a href="dusk">Browser Tests</a></li>
-            <li><a href="database-testing">Database</a></li>
-            <li><a href="mocking">Mocking</a></li>
+            <li><a href="testing">С чего начать</a></li>
+            <li><a href="http-tests">HTTP Tests - HTTP тесты</a></li>
+            <li><a href="console-tests">Console Tests - Консольные тесты</a></li>
+            <li><a href="dusk">Browser Tests - Тесты браузерные</a></li>
+            <li><a href="database-testing">Database - Тесты Баз данных</a></li>
+            <li><a href="mocking">Mocking - Объект-имитация</a></li>
         </ul>
     </li>
     <li>
