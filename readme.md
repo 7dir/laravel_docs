@@ -139,3 +139,8 @@
         </ul>
     </li>
 </ul>
+
+## Полезные дополнения
+
+ - https://github.com/ElForastero/Transliterate
+ - https://github.com/staudenmeir/eloquent-has-many-deep
