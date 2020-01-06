@@ -8,12 +8,12 @@
 
 <ul>
     <li class="">
-        <h2>Prologue</h2>
+        <h2>Пролог</h2>
         <ul>
-            <li><a href="/docs/6.x/releases">Release Notes</a></li>
-            <li><a href="/docs/6.x/upgrade">Upgrade Guide</a></li>
-            <li><a href="/docs/6.x/contributions">Contribution Guide</a></li>
-            <li><a href="/api/6.x">API Documentation</a></li>
+            <li><a href="releases">Заметки выпуска</a></li>
+            <li><a href="/docs/6.x/upgrade">Обновление до 6.x</a></li>
+            <li><a href="/docs/6.x/contributions">Гид содействия</a></li>
+            <li><a href="/api/6.x">API документация</a></li>
         </ul>
     </li>
     <li>
